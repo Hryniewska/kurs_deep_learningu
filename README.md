@@ -4,7 +4,7 @@ Ze względu na dość duże zainteresowanie tematem, udostępniam materiały do 
 
 Jest to kurs oparty o język Python i bibliotekę Keras do tworzenia oraz trenowania sieci neuronowych. W kursie szczególnie uwzględnienione jest odpowiedzialne budowanie modeli uczenia głębokiego, a w szczególności obrazy medyczne płuc.
 
-W przypadku chęci wykorzystania materiałów do swoich celów, proszę o podanie mojego autorstwa.
+**W przypadku chęci wykorzystania materiałów do swoich celów, proszę o podanie mojego autorstwa.**
 
 
 ---
